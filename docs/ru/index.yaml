@@ -37,7 +37,7 @@ blocks:
           text: О платформе
           textSize: s
         text: |
-          [Описание](about.md)
+          [Начало работы](about.md)
           
           [Обновления](updates.md)
       - type: basic-card
