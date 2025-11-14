@@ -6,13 +6,9 @@
 3. [Департаменты](department.md#anchor)
 4. [Должности](positions.md#anchor)
 
-{% note info "" %}
 
-Раздел «Организация» будет выглядеть по-разному в зависимости от прав доступа.
 
-{% endnote %}
-
-{% cut "Отображение раздела для сотрудника с доступом «**company_administrator**»" %}{name=cutgroup}
+<!--{% cut "Отображение раздела для сотрудника с доступом «**company_administrator**»" %}{name=cutgroup}
 
 ![Организация_admin](../_images/company_titul.png)
 
@@ -28,7 +24,37 @@
 
 ![Организация_service](../_images/company_titul_service.png)
 
-{% endcut %}
+{% endcut %}-->
+
+
+
+{% note info "" %}
+
+Раздел «Организация» будет выглядеть по-разному в зависимости от прав доступа.
+
+{% endnote %}
+
+Отображение раздела см. ниже:
+
+{% list tabs %}
+
+- company_administrator
+
+  ![Организация_admin](../_images/company_titul.png)
+
+- engineers
+
+  ![Организация_engineers](../_images/company_titul_engineers.png)
+
+- service
+
+  ![Организация_service](../_images/company_titul_service.png)
+
+- warehouse
+
+  ![Организация_service](../_images/company_titul_service.png) 
+
+{% endlist %}
 
 **Активные кнопки**
 - ![Кнопка1](../_images/icon1.png)Добавить элемент

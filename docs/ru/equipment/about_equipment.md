@@ -7,13 +7,9 @@
 4. [Динамические параметры](dynamic_parameters.md#anchor)
 5. [Производители](manufacturers.md#anchor)
 
-{% note info "" %}
 
-Раздел «Оборудование» будет выглядеть по-разному в зависимости от прав доступа.
 
-{% endnote %}
-
-{% cut "Отображение раздела для сотрудника с доступом «**company_administrator**» или «**engineers**»" %}
+<!--{% cut "Отображение раздела для сотрудника с доступом «**company_administrator**» или «**engineers**»" %}
 
 ![Оборудование_admin](../_images/equipment_titul.png)
 
@@ -29,13 +25,10 @@
 
 ![Оборудование_service](../_images/equipment_titul_warehouse.png)
 
-{% endcut %}
+{% endcut %}-->
 
 
-**Активные кнопки**
-- ![Кнопка1](../_images/icon1.png)Добавить элемент
-- ![Кнопка2](../_images/icon2.png)Переход к подразделу
-- ![Кнопка3](../_images/icon3.png) Просмотр подраздела
+
 
 
 {% note info "" %}
@@ -44,15 +37,15 @@
 
 {% endnote %}
 
-**Отображение раздела см. ниже:**
+Отображение раздела см. ниже:
 
 {% list tabs %}
 
-- **company_administrator**
+- company_administrator
 
     ![Оборудование_admin](../_images/equipment_titul.png)
 
-- **_engineers_**
+- engineers
 
   ![Оборудование_admin](../_images/equipment_titul.png)
 
@@ -60,8 +53,13 @@
 
   ![Оборудование_engineers](../_images/equipment_titul_service.png)
 
-- _warehouse_
+- warehouse
 
   ![Оборудование_service](../_images/equipment_titul_warehouse.png) 
 
 {% endlist %}
+
+**Активные кнопки**
+- ![Кнопка1](../_images/icon1.png)Добавить элемент
+- ![Кнопка2](../_images/icon2.png)Переход к подразделу
+- ![Кнопка3](../_images/icon3.png) Просмотр подраздела
