@@ -41,25 +41,35 @@
 
 {% list tabs %}
 
-- company_administrator
+- company administrator
 
     ![Оборудование_admin](../_images/equipment_titul.png)
+
+    **Активные кнопки**
+    - ![Кнопка1](../_images/icon1.png)Добавить элемент
+    - ![Кнопка2](../_images/icon2.png)Переход к подразделу
 
 - engineers
 
   ![Оборудование_admin](../_images/equipment_titul.png)
 
+    **Активные кнопки**
+    - ![Кнопка1](../_images/icon1.png)Добавить элемент
+    - ![Кнопка2](../_images/icon2.png)Переход к подразделу
+
 - service
 
   ![Оборудование_engineers](../_images/equipment_titul_service.png)
+
+    **Активная кнопка**
+    - ![Кнопка3](../_images/icon3.png) Просмотр подраздела
 
 - warehouse
 
   ![Оборудование_service](../_images/equipment_titul_warehouse.png) 
 
-{% endlist %}
+    **Активные кнопки**
+    - ![Кнопка2](../_images/icon2.png)Переход к подразделу
+    - ![Кнопка3](../_images/icon3.png) Просмотр подраздела
 
-**Активные кнопки**
-- ![Кнопка1](../_images/icon1.png)Добавить элемент
-- ![Кнопка2](../_images/icon2.png)Переход к подразделу
-- ![Кнопка3](../_images/icon3.png) Просмотр подраздела
+{% endlist %}
