@@ -19,7 +19,7 @@
 
 {% note tip %}
 
-Для удобства работы сначала создайте [департаменты](department.md#anchor) и [должности](positions.md#anchor), а затем добавляйте пользователей. 
+Для удобства работы сначала создайте [департаменты](department.md#anchor) и [должности](positions.md#anchor), а затем добавляйте пользователей.     
 
 {% endnote %}
 
@@ -57,6 +57,8 @@
 
     * [техническая поддержка](../support/about_support.md#anchor).
 
+    ![Права_админ](../_images/company_users_admin.png)
+
 - engineers
 
     Сотрудники имеют доступ к подразделам:
@@ -74,6 +76,8 @@
     * [динамические параметры](../equipment/dynamic_parameters.md#anchor) – создание и редактирование динамических параметров;  
 
     * [производители](../equipment/manufacturers.md#anchor) – создание и редактирование наименований компаний-производителей. 
+
+    ![Права_инженер](../_images/company_users_engineers.png)
 
 - service maintenance
 
@@ -93,6 +97,8 @@
 
     * [категории тикетов](../support/ticket_categories.md#anchor) – создание категории тикетов.
 
+    ![Права_сервис](../_images/company_users_service.png)
+
 - warehouse
 
     Сотрудники имеют доступ к подразделам:
@@ -106,6 +112,8 @@
     * [зарегистрированные изделия](../equipment/registered_products.md#anchor) – скачивание QR-кода/QR-кодов, скачивание паспорта/паспортов;  
     
     * [динамические параметры](../equipment/dynamic_parameters.md#anchor) – просмотр динамических параметров.
+
+    ![Права_склад](../_images/company_users_warehouse.png)
 
 
 {% endlist %}

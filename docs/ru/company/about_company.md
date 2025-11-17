@@ -6,28 +6,6 @@
 3. [Департаменты](department.md#anchor)
 4. [Должности](positions.md#anchor)
 
-
-
-<!--{% cut "Отображение раздела для сотрудника с доступом «**company_administrator**»" %}{name=cutgroup}
-
-![Организация_admin](../_images/company_titul.png)
-
-{% endcut %}
-
-{% cut "Отображение раздела для сотрудника с доступом «**engineers**»" %}{name=cutgroup}
-
-![Организация_engineers](../_images/company_titul_engineers.png)
-
-{% endcut %}
-
-{% cut "Отображение раздела для сотрудника с доступом «**service**» или «**warehouse**»" %}{#cut-3 name=cutgroup}
-
-![Организация_service](../_images/company_titul_service.png)
-
-{% endcut %}-->
-
-
-
 {% note info "" %}
 
 Раздел **Организация** будет выглядеть по-разному в зависимости от прав доступа.
