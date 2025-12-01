@@ -1,18 +1,22 @@
+vcs: true
+mtimes: true
 langs: ['ru', 'en']
+extensions:
+  - name: github-vcs
+
 
 docs-viewer:
   langs: ['en','ru']
+  logo-options:
+    src: "https://cdn.prod.website-files.com/6603d96aba3ded64d735fd75/6608f2be8d8302eabf161fdb_logo.svg"
 
 themes: ['light', 'dark']
+
 
 search:
   provider: local
   tolerance: 2
   confidenсe: phrased
 
-extensions:
-  - name: github-vcs
 
-vcs: true
 
-mtimes: true
