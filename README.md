@@ -1,40 +1,19 @@
-# Documentation Template created by Diplodoc
+# Инструкция пользователя QR-Passport
+## Style guide
 
-Features:
+### Общее по тексту
 
-- initial project structure
-- dev server with hot reload
-- codespaces support
-- vscode tutorial via code tours
+|          Описание        |      Как нужно оформлять     | Как не нужно оформлять |
+|:------------------------:|:----------------------------:|:----------------------:|
+| Взаимодействия с кнопкой | Нажмите кнопку **Применить** |    Нажмите на кнопку   |
 
-## Initial project structure
 
-Initiatl project structure with basic content can be found within your public github repo "diplodoc-example/docs" 
+### Раздел «История изменений». Как оформлять?
+- заголовок 2 уровня → Месяц и год изменения
+- заголовок 3 уровня → Классификация изменения:
 
-## Usage
+  - Новый функционал
+  - Исправление ошибок
+  - Улучшение
 
-### Run locally by cloning repo:
 
-```
-> git clone git@github.com:diplodoc-platform/documentation-template.git
-
-> cd documentation-template
-
-> npm start
-
-> listening on 0.0.0.0:8000
-
-```
-now you have development server with hot reload runing and serving built documentation on `0.0.0.0:8000`
-
-### github codespaces
-
-press Use this template -> Open in a codespace
-
-![open in a codespace](images/open-in-a-codespace.jpeg)
-
-wait for the development server startup
-
-enjoy developing documentation with html result preview in split view
-
-![codespaces project](images/codespaces-project.jpeg)
