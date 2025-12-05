@@ -224,7 +224,7 @@
 
 {% note info "" %}
 
-Подробнее о регистрации изделий см. [регистрация изделий](equipment/models.md#anchor).
+Подробнее о регистрации изделий см. [регистрация изделий](equipment/models.md#registraciya-izdeliya).
 
 {% endnote %}
 
@@ -248,7 +248,7 @@
 
 {% note info "" %}
 
-Подробнее о скачивании QR-кодов см. [скачивание QR-кода/QR-кодов](equipment/registered_products.md#anchor).
+Подробнее о скачивании QR-кодов см. [скачивание QR-кода/QR-кодов](equipment/registered_products.md#skachivanie-qr-koda/qr-kodov).
 
 {% endnote %}
 
@@ -273,7 +273,7 @@ QR-коды тестовых моделей не предназначены дл
 
 {% note info "" %}
 
-Подробнее о скачивании QR-кодов см. [скачивание паспорта/паспортов](equipment/registered_products.md#anchor).
+Подробнее о скачивании QR-кодов см. [скачивание паспорта/паспортов](equipment/registered_products.md#skachivanie-pasporta/pasportov).
 
 {% endnote %}
 
