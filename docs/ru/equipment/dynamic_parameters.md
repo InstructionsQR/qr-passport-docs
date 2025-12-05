@@ -8,7 +8,7 @@
 
 {% note info %}
 
-Динамические параметры задаются на этапе [создания модели](./models.md#sozdanie-modeli), а заполнять данные параметры нужно на этапе [регистрации изделий](./registered_products.md#registraciya-izdeliya).
+Динамические параметры задаются на этапе [создания модели](./models.md#sozdanie-modeli), а заполнять данные параметры нужно на этапе [регистрации изделий](./models.md#registraciya-izdeliya).
 
 {% endnote %}
 
