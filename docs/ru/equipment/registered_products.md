@@ -53,7 +53,7 @@
 
 {% cut "см. шаги 5-8" %}
 
-![Зарег_изделия_4](../_images/equipment_registered_products_4.png)
+![Зарег_изделия_4](../_images/equipment_registered_products_4.png){width=400 height=400}
 
 {% endcut %}
 
